@@ -1,0 +1,114 @@
+/* Add a black background color to the top navigation */
+.topnav {
+    background-color: #172944;
+    overflow: hidden;
+}
+
+  /* Style the links inside the navigation bar */
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+  /* Change the color of links on hover */
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+  /* Add a color to the active/current link */
+.topnav a.active {
+    background-color: #4CAF50;
+    color: white;
+}
+
+/*Mashweets*/
+
+.topBar{
+    align-items: center;
+}
+
+.searchTab{
+    background: #f7f7f7;
+    border-radius: 4px;
+    padding: 5px;
+}
+.search{
+    border: 0;
+    background: #f7f7f7;
+}
+.form-inline .form-control{
+    width: 90%;
+}
+.logo{
+    display: block;
+    margin: auto;
+    width: 20%;
+    vertical-align: center;
+}
+.profile-cart{
+    padding: 8px;
+}
+.jumbotron {
+    text-align: center;
+    background: none;
+}
+.sectionLight {
+    background-color: #eceeef;
+    padding: 2rem;
+}
+.sectionDark {
+    background-color: #cccccc;
+    padding: 2rem;
+}
+.card-deck{
+    padding: 40px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.imgCenter{
+    display: block;
+    margin: auto;
+    border-radius: 50%;
+    border: 2px solid black;
+}
+
+.btnCenter{
+    display: block;
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    width: 74%;
+}
+#size, #icing, #flavour{
+    width: auto;
+}
+.h1{
+    font-weight: 200;
+    padding-bottom: 30px;
+}
+.fa{
+    margin: 10px;
+}
+
+.fa-facebook-square{
+    color: #3b5998;    margin-left:100px;
+}
+.fa-instagram{
+    color: #ffffff;
+}
+
+.socialWrapper{
+    margin: auto;
+
+}
+.display-3{
+    color: #fff;
+}
+.footerJumbotron{
+    margin-bottom: 0;
+}
